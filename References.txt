@@ -1,0 +1,18 @@
+Web sites: 
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+https://wiki.openstreetmap.org/wiki/OSM_XML
+http://docs.mongodb.org/manual/reference/operator/aggregation/
+http://docs.mongodb.org/manual/reference/operator/query/
+https://en.wikipedia.org/wiki/Lincoln,_Nebraska
+
+books: N/A
+
+forums: 
+https://discussions.udacity.com/t/how-to-use-mongodb-locally/13420
+https://discussions.udacity.com/t/problem-with-updating-street-names-in-osm-file/28679
+https://discussions.udacity.com/t/error-in-distinct-query-in-mongodb/32590
+
+blog posts:
+http://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
+
+github repositories: https://github.com/udacity/ud032
